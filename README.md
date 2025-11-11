@@ -1,2 +1,2 @@
 # mine-worker-safety-map
-Python-based simulation and visualization of underground mine worker tracking using BLE beacons, with real-time safety monitoring and predictive high-risk zone mapping.
+Mine Worker Tracking & Safety Map is a Python-based project that simulates real-time tracking of underground mine workers using BLE beacons, estimates their positions, and visualizes movement on a 2D map for safety monitoring.
